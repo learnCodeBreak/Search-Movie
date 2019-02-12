@@ -1,0 +1,6 @@
+
+First Ionic 4 Application with API calls
+
+API from OMDB
+
+API:  http://www.omdbapi.com/?i=tt3896198&apikey=3ab489c9
